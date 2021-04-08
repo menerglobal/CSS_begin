@@ -1,0 +1,33 @@
+#container {
+    width: 1140px;
+    
+}
+
+#blog-post-container {
+    width: 75%;
+    
+}
+
+#others-posts {
+    width: 25%;
+    background-color: bisque;
+}
+
+#author-box {
+    border: 5px solid red;
+}
+.tags{
+    margin: 0;
+    padding: 0;
+}
+
+.tags li{
+    list-style: none;
+    display: inline;
+    margin-right: 5px;
+}
+
+tags li a{
+    text-decoration: none;
+    
+}
